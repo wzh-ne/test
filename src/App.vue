@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to wzh3"/>
+    修改APP 4-27 15:32
   </div>
 </template>
 
